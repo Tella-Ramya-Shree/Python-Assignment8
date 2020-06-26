@@ -18,7 +18,7 @@ print ("String after removal of character:",res_str)
 
 #Program to print every character of a string entered by user in a new line using loop
 s='mango'
-for i in s:
-  print(i)
+for index in s:
+  print(index)
 
 
